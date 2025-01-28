@@ -1,0 +1,1 @@
+A React-based web app for managing employee expenses efficiently. It features authentication, expense tracking, and report generation. Built with React, React Router, and Context API for secure access and seamless navigation. Employees can log and review expenses easily with a user-friendly interface. 
